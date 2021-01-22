@@ -1,7 +1,3 @@
 one
 two
-three
-Making some more changes to this file
-La de da de da
-OOOOOOOOOHHHHHH baaaaaaaby!!!!!!!!!!!!
-:)
+go
